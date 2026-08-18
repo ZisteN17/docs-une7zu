@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-vj0eco.radarsatu88.cfd/sitemap.xml
